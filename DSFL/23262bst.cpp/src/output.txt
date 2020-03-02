@@ -1,0 +1,209 @@
+guest-zvmxzv@ml08-OptiPlex-3046:~/23262/23262bst.cpp/src$ g++ 23262bst.cpp && ./a.out 
+
+
+	*****Binary Search Tree
+1.Insert
+2.Display
+3.Delete
+4.Search
+5.Display level wise
+6.Mirror Image
+7.Height of BST
+8.Exit
+
+Enter the details:- 1
+
+Enter the key for bst: 4
+
+
+	*****Binary Search Tree
+1.Insert
+2.Display
+3.Delete
+4.Search
+5.Display level wise
+6.Mirror Image
+7.Height of BST
+8.Exit
+
+Enter the details:- 1
+
+Enter the key for bst: 2
+
+
+	*****Binary Search Tree
+1.Insert
+2.Display
+3.Delete
+4.Search
+5.Display level wise
+6.Mirror Image
+7.Height of BST
+8.Exit
+
+Enter the details:- 1
+
+Enter the key for bst: 3
+
+
+	*****Binary Search Tree
+1.Insert
+2.Display
+3.Delete
+4.Search
+5.Display level wise
+6.Mirror Image
+7.Height of BST
+8.Exit
+
+Enter the details:- 1
+
+Enter the key for bst: 1
+
+
+	*****Binary Search Tree
+1.Insert
+2.Display
+3.Delete
+4.Search
+5.Display level wise
+6.Mirror Image
+7.Height of BST
+8.Exit
+
+Enter the details:- 1
+
+Enter the key for bst: 6
+
+
+	*****Binary Search Tree
+1.Insert
+2.Display
+3.Delete
+4.Search
+5.Display level wise
+6.Mirror Image
+7.Height of BST
+8.Exit
+
+Enter the details:- 1
+
+Enter the key for bst: 5
+
+
+	*****Binary Search Tree
+1.Insert
+2.Display
+3.Delete
+4.Search
+5.Display level wise
+6.Mirror Image
+7.Height of BST
+8.Exit
+
+Enter the details:- 1
+
+Enter the key for bst: 7
+
+
+	*****Binary Search Tree
+1.Insert
+2.Display
+3.Delete
+4.Search
+5.Display level wise
+6.Mirror Image
+7.Height of BST
+8.Exit
+
+Enter the details:- 2
+
+ Binary Search Tree:  1 2 3 4 5 6 7
+
+	*****Binary Search Tree
+1.Insert
+2.Display
+3.Delete
+4.Search
+5.Display level wise
+6.Mirror Image
+7.Height of BST
+8.Exit
+
+Enter the details:- 3
+Enter data to delete: 2
+element deleted!!
+
+	*****Binary Search Tree
+1.Insert
+2.Display
+3.Delete
+4.Search
+5.Display level wise
+6.Mirror Image
+7.Height of BST
+8.Exit
+
+Enter the details:- 4
+
+Enter key to search: 4
+
+
+Element found
+
+	*****Binary Search Tree
+1.Insert
+2.Display
+3.Delete
+4.Search
+5.Display level wise
+6.Mirror Image
+7.Height of BST
+8.Exit
+
+Enter the details:- 5
+LevelWise display: 4  
+3  6  
+1  5  7  
+
+	*****Binary Search Tree
+1.Insert
+2.Display
+3.Delete
+4.Search
+5.Display level wise
+6.Mirror Image
+7.Height of BST
+8.Exit
+
+Enter the details:- 6
+
+Mirror image of tree is:-  7 6 5 4 3 1
+
+
+	*****Binary Search Tree
+1.Insert
+2.Display
+3.Delete
+4.Search
+5.Display level wise
+6.Mirror Image
+7.Height of BST
+8.Exit
+
+Enter the details:- 7
+The height of tree is: 2
+
+	*****Binary Search Tree
+1.Insert
+2.Display
+3.Delete
+4.Search
+5.Display level wise
+6.Mirror Image
+7.Height of BST
+8.Exit
+
+Enter the details:- 8
+guest-zvmxzv@ml08-OptiPlex-3046:~/23262/23262bst.cpp/src$ 
+
