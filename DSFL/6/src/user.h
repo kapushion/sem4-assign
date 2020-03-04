@@ -17,12 +17,12 @@ struct node {
 };
 class user {
 	node *User;
-	node *next;
 public:
-	void register();
+	void registerF(int ,string);
 	void display();
 	node *BFS();
 	node *DFS();
+	void friends(string name);
 	user();
 	virtual ~user();
 };
