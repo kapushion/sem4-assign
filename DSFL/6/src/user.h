@@ -22,7 +22,7 @@ public:
 	void display();
 	node *BFS();
 	node *DFS();
-	void friends(string name);
+	void friends(string );
 	user();
 	virtual ~user();
 };

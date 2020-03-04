@@ -38,3 +38,17 @@ void user::registerF(int n, string Name) {
 		temp1->down = temp;
 	}
 }
+
+void user::friends(string name) {
+	if(User == NULL) {
+		return;
+	}
+	node *temp1;
+	temp1 = User;
+
+	while(temp1->down != NULL) {
+		if(temp1->name == name) {
+
+		}
+	}
+}
